@@ -120,10 +120,10 @@ Nobody's pick to make a deep run, Norway advances as Group H runner-up ahead of 
 ### 🇧🇷 Brazil — Bouncing Back for Bronze
 Brazil enters the tournament in arguably their worst recent form among the traditional powers (42.9% win rate, 2023–2025) — a red flag that shows up in their group stage performance and eventual semifinal exit. Yet their Elo rating (1698.6) and World Cup pedigree (64.1% all-time WC win rate) carries them deep. They fall to Argentina in the semis but recover to beat the Netherlands for the bronze medal — a redemption arc the data supports.
 
-### ⚔️ Brazil vs Argentina — Classic Rivalry on the World Stage
+### Brazil vs Argentina — Classic Rivalry on the World Stage
 The model produces a Brazil vs Argentina semifinal — one of football's most storied rivalries, and historically one of the most anticipated fixtures in the sport. Argentina edges their rivals 54.5% to 36.4%, a margin that reflects both their superior recent form and their historical head-to-head dominance (62 wins to Brazil's 28 in 110 meetings).
 
-### 🏆 Germany vs Argentina — A Final for the History Books
+### Germany vs Argentina — A Final for the History Books
 The model predicts a **Germany vs Argentina final** — the fourth time in World Cup history these nations have met in the final, following 1986 (Argentina won), 1990 (Germany won), and 2014 (Germany won). Argentina leads the all-time final series 2–1 and the model gives them the edge at 46.7% to 36.9%, predicting a **back-to-back World Cup title** for La Albiceleste — and a chance to level the greatest rivalry in the sport's biggest moment.
 
 ### 🇪🇸 Spain — The Biggest Upset of the Tournament
@@ -159,7 +159,7 @@ These are meaningful factors that pure historical data cannot capture.
 
 ---
 
-## 🔮 Predicted Results Summary
+## Predicted Results Summary
 
 ### Round of 32
 | Match | Winner |
