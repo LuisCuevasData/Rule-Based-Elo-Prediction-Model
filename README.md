@@ -111,7 +111,7 @@ Before a ball is kicked, the model produces a global power ranking based purely 
 
 ## The Storylines
 
-### Uruguay — Last in Group L
+### 🇺🇾 Uruguay — Last in Group L
 The model's most shocking group stage result. Uruguay, ranked 8th in the global Elo standings, finishes **dead last** in Group L. Iran's exceptional recent form (67.6% win rate, 2023–2025) pushes them to first, and South Korea's dominant historical head-to-head record against Uruguay seals the Celeste's fate. A brutal group for a nation that has lifted the World Cup twice.
 
 ### 🇳🇴 Norway — The Dark Horse Reaches the Quarter Finals
